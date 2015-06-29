@@ -5,7 +5,7 @@
  * @create_time 2015-04-02
  */
 namespace mysoft\helpers;
-require VENDOR_PATH.'/PHPExcel/PHPExcel.php';
+#require VENDOR_PATH.'/PHPExcel/PHPExcel.php';
 
 class Excel
 {
