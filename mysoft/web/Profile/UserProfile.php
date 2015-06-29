@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace yunke\web\Profile;
+namespace mysoft\web\Profile;
 
 /**
  * 用户个性化信息存储

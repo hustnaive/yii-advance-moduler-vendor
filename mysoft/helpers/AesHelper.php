@@ -1,5 +1,5 @@
 <?php
-namespace yunke\helpers;
+namespace mysoft\helpers;
 
 class AesHelper {
 

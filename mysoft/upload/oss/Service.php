@@ -5,7 +5,7 @@
  *@author : yangz03
  *@since  : 2015-01-08
  */
-namespace yunke\oss;
+namespace mysoft\oss;
 use yunke\helpers\Conf;
 
 require __DIR__.'/sdk.class.php';

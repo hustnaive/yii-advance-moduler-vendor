@@ -1,5 +1,5 @@
 <?php
-namespace yunke\base;
+namespace mysoft\base;
 
 /**
  * Description of PHPUnit_TestCaseBase

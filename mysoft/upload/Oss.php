@@ -7,7 +7,7 @@
  * @author yangzhen
  *
  */
-namespace yunke\upload;
+namespace mysoft\upload;
 use yunke\helpers\Conf;
 
 require __DIR__.'/oss/sdk.class.php';

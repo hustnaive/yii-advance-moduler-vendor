@@ -20,7 +20,7 @@
  * @author yangzhen
  *
  */
-namespace yunke\mqs;
+namespace mysoft\mqs;
 
 use yii\base\Component;
 

@@ -1,5 +1,5 @@
 <?php
-namespace yunke\helpers;
+namespace mysoft\helpers;
 /**
  * Layouts布局助手
  * ~ 

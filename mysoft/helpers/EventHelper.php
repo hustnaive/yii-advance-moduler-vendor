@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace yunke\helpers;
+namespace mysoft\helpers;
 
 use yii\base\Event;
 

@@ -1,5 +1,5 @@
 <?php
-namespace yunke\helpers;
+namespace mysoft\helpers;
 /**
  * 资源加载管理器
  * @static

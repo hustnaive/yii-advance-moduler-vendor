@@ -1,5 +1,5 @@
 <?php
-namespace yunke\helpers;
+namespace mysoft\helpers;
 use yii\helpers\BaseFileHelper;
 
 class FileHelper extends BaseFileHelper

@@ -1,6 +1,6 @@
 <?php
 
-namespace yunke\helpers;
+namespace mysoft\helpers;
 use Oauth\API_SMS;
 use yunke\dbprovider\DbProvider;
 /*

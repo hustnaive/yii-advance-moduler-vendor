@@ -4,7 +4,7 @@
  * @author yangzhen
  *
  */
-namespace yunke\caching;
+namespace mysoft\caching;
 
 use yii\caching\Cache;
 use yii\base\InvalidConfigException;

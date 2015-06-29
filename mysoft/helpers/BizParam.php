@@ -14,7 +14,7 @@
  *
  */
 
-namespace yunke\helpers;
+namespace mysoft\helpers;
 
 use yunke\dbprovider\DbProvider;
 use yii\base\InvalidParamException;

@@ -7,7 +7,7 @@
  * @author yangzhen
  *
  */
-namespace yunke\base;
+namespace mysoft\base;
 
 class TestApplication extends \yii\base\Application
 {

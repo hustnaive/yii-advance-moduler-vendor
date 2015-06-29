@@ -5,7 +5,7 @@
  *
  */
 
-namespace yunke\mqs;
+namespace mysoft\mqs;
 use yunke\http\Curl;
 
 

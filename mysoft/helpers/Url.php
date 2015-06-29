@@ -1,5 +1,5 @@
 <?php
-namespace yunke\helpers;
+namespace mysoft\helpers;
 use yii\helpers\BaseUrl;
 use yii;
 /**

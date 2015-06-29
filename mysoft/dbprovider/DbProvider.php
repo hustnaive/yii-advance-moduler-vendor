@@ -1,5 +1,5 @@
 <?php
-namespace yunke\dbprovider;
+namespace mysoft\dbprovider;
 use Yii;
 use yii\base\InvalidRouteException;
 

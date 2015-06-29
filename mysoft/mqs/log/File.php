@@ -1,5 +1,5 @@
 <?php
-namespace yunke\mqs\log;
+namespace mysoft\mqs\log;
 
 use Yii;
 use yii\base\InvalidConfigException;

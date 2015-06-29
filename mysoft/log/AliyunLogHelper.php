@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace yunke\log;
+namespace mysoft\log;
 
 use \yunke\helpers\Conf;
 

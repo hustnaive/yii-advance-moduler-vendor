@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yunke\db;
+namespace mysoft\db;
 
 class OrgConnection extends \yii\db\Connection
 {

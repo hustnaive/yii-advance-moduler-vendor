@@ -4,7 +4,7 @@
  * @author baol
  * @create_time 2015-04-02
  */
-namespace yunke\helpers;
+namespace mysoft\helpers;
 require VENDOR_PATH.'/PHPExcel/PHPExcel.php';
 
 class Excel

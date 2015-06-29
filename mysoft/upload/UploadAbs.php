@@ -20,7 +20,7 @@
  * @author yangzhen
  *
  */
-namespace yunke\upload;
+namespace mysoft\upload;
 use yii\base\Component;
 
 abstract class UploadAbs extends Component 

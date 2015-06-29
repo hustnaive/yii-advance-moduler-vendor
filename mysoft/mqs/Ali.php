@@ -26,7 +26,7 @@
  * 
  * @author yangzhen
  */
-namespace yunke\mqs;
+namespace mysoft\mqs;
 use yunke\http\Curl;
 
 class Ali extends MqsAbs

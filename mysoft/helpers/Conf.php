@@ -5,7 +5,7 @@
  * @author yangzhen
  *
  */
-namespace yunke\helpers;
+namespace mysoft\helpers;
 use yunke\dbprovider\DbProvider;
 
 class Conf

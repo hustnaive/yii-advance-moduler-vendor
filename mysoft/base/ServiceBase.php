@@ -1,5 +1,5 @@
 <?php
-namespace yunke\base;
+namespace mysoft\base;
 use yunke\dbprovider\DbProvider;
 
 class ServiceBase {

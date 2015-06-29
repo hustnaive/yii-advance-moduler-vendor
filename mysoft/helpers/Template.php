@@ -4,7 +4,7 @@
  * @author yangzhen
  *
  */
-namespace yunke\helpers;
+namespace mysoft\helpers;
 
 class Template
 {

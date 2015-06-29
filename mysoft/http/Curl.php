@@ -1,5 +1,5 @@
 <?php
-namespace yunke\http;
+namespace mysoft\http;
 /**
  * Curl wrapper PHP v2
  * @author hackerone
