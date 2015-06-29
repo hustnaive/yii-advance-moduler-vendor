@@ -8,7 +8,7 @@
  */
 
 
-namespace yunke\web;
+namespace mysoft\web;
 
 use services\pub\MyUserService;
 use yii\web\IdentityInterface;

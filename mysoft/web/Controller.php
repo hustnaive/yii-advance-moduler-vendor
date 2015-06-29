@@ -4,11 +4,11 @@
  * @author yangz03
  * @since 2015-01-17
  */
-namespace yunke\web;
+namespace mysoft\web;
 use yii;
 use yii\web\Controller as CTR;
-use yunke\helpers\String;
-use yunke\web\User;
+use mysoft\helpers\String;
+use mysoft\web\User;
 
 class Controller extends CTR
 { 

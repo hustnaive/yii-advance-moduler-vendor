@@ -1,5 +1,5 @@
 <?php
-namespace  yunke\helpers;
+namespace  mysoft\helpers;
 /**
  * 生成uuid的助手类
  * 

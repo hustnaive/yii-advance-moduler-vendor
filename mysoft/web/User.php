@@ -1,5 +1,5 @@
 <?php
-namespace  yunke\web;
+namespace  mysoft\web;
 use yunke\helpers\Identity;
 use yunke\helpers\WeiXin;
 

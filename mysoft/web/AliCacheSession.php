@@ -1,6 +1,6 @@
 <?php
 
-namespace yunke\web;
+namespace mysoft\web;
 
 use Yii;
 use yii\caching\Cache;
